@@ -1,6 +1,6 @@
 ---
 title: "O Mundo e a Renovação do Entendimento"
-date: 2022-04-28T19:46:32-03:00
+date: 2022-04-27T19:46:32-03:00
 draft: true
 ---
 
