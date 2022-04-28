@@ -1,0 +1,7 @@
+theme = "paper"
+baseURL = "http://k4fer74.github.io/"
+languageCode = "pt-br"
+title = "k4fer74's blog"
+
+[params]
+  github = "k4fer74"
