@@ -1,7 +1,7 @@
 ---
 title: "O Mundo e a Renovação do Entendimento"
 date: 2022-04-27T19:46:32-03:00
-draft: true
+draft: false
 ---
 
 Estar em conformidade com os padrões do mundo se tornou característica intrínseca da condição humana, qualidade proveniente do afastamento da verdade. O apóstolo Paulo instrui a estar em desacordo com os princípios do mundo e a transformar o comportamento através da renovação do entendimento — Romanos 12:2
