@@ -1,5 +1,5 @@
 ---
-title: "O Mundo e a Renovação do Entendimento"
+title: "O mundo e a renovação do entendimento"
 date: 2022-04-27T19:46:32-03:00
 draft: false
 ---

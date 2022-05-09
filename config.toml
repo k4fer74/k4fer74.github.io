@@ -1,4 +1,4 @@
-theme = "paper"
+theme = ["hugo-chart", "paper"]
 baseURL = "https://k4fer74.github.io/"
 languageCode = "pt-br"
 title = "k4fer74's blog"
